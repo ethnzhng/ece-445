@@ -26,6 +26,8 @@ Post TA meeting:
 
 ---
 ## 2/27/23
+Spoke to machine shop again about frame build and provided them with valve and tub.
+
 Finished variation 1 of PCB schematic. Will attend the PCB review session on 2/28/23 to get feedback.
 
 While working on PCB design and schematic, I realized that the oled display we were planning on using was a little small and couldnt find the exact components on kicad - need to import a library. I decided to switch to a 16x2 lcd display instead.
