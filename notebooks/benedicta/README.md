@@ -55,7 +55,5 @@ Our next step is to breadboard the prototype but we have faced issues with findi
 Machine shop has finished the frame build and Neha will be picking it up on 3/10/23. 
 
 ---
-## 3/13/23
-Spring Break.
-
+## 3/13/23 - Spring Break.
 ---
