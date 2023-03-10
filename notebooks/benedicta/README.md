@@ -42,3 +42,20 @@ Variation 1 of PCB schematic:
 ![](visuals/pcbFinalDesign1.png)
 
 ---
+## 3/6/23
+Presented for Design Review. We received feedback on our use of a raspberry pi over a wifi module, but we have made progress on
+our notification subsystem with the raspberry pi and were not made aware of the prolems with a raspberry pi until the Design Review occured and pcb routing had begun. We therefore decided to keep the raspberry pi in our design. 
+
+I completed the PCB layout and routing and sent it to Prannoy for ordering. Passed the audit and requested a stencil.
+![](visuals/routing.png)
+(Long header is for display)
+
+Our next step is to breadboard the prototype but we have faced issues with finding a breadboard friendly atmega328p. As we ordered multiple SMD atmega328p's, we will be using one of those for the prototype by soldering wires to the pins and attaching that to a breadboard.
+
+Machine shop has finished the frame build and Neha will be picking it up on 3/10/23. 
+
+---
+## 3/13/23
+Spring Break.
+
+---
